@@ -35,4 +35,4 @@ Satoshi Universe Architecture
 
 
 
-_© Copyright 2022, Criptomeria Labs
+_© Copyright 2022, Cryptomeria Labs
