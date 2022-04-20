@@ -30,6 +30,7 @@ Satoshi Universe Architecture
 
 <i>Note: The project is under development and technical solutions as architecture can be changed during the development process.<i/> 
 
+![Satosi drawio](https://user-images.githubusercontent.com/104004620/164326664-f4475fa9-2c02-456d-97da-a78f1213f885.png)
 
 
 
