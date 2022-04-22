@@ -3,13 +3,11 @@
 Satoshi Universe
 =================
 
-<b>Satoshi Universe</b> - PvP Real-Time Strategy with the elements of Business Simulator: player builds his own Empire in Metaverse, trade with game assets, complete quests, cooperate and compete with other players for lands and hardcurrency.
+Satoshi Universe is a game with social metaverse experience in sci-fi (cyberpunk) setting. It is a real time strategy game with mini-games inside the buildings. The world is divided by pentagons that can be bought and built on.
 
-Humans have conquered space… or at least a small part of it.
-The invention of the space elevator allowed space-ports to be built in orbit, removing the need for large rockets to escape Earth’s gravity. These quickly grew to become huge cities in the sky, and the dawn of cheap interplanetary travel led to the establishment of permanent human colonies on the Moon and Mars.
-Approaching the 50th anniversary of the publication of the Bitcoin white paper, cryptocurrency dominates InterPlanetary finance. However, one mystery still remains; who was Satoshi Nakamoto, its pseudonymous writer…
-Remains that is, until a long dormant account on the long dormant Bitcointalk forum wakes from an almost 48 year slumber.
+It is 2058, on the 50th anniversary of the publication of the Bitcoin whitepaper, and a shock message posted from Satoshi’s Bitcointalk forum profile grabs the attention of just four people.
 
+So we first encounter this alternate future universe... but its story is just beginning...
 
 Before getting started with this repo, please read:
 
