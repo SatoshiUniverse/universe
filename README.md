@@ -1,20 +1,16 @@
 
 
-Satoshi Universe
+Tapspace Metaverse
 =================
 
-Satoshi Universe is a game with social metaverse experience in sci-fi (cyberpunk) setting. It is a real time strategy game with mini-games inside the buildings. The world is divided by pentagons that can be bought and built on.
-
-It is 2058, on the 50th anniversary of the publication of the Bitcoin whitepaper, and a shock message posted from Satoshi’s Bitcointalk forum profile grabs the attention of just four people.
-
-So we first encounter this alternate future universe... but its story is just beginning...
+TapSpace is a mobile-first no-code game editor tool and games platform, uniting developers, players and creators.
 
 Before getting started with this repo, please read:
 
-* The [Satoshi Universe Whitepaper](https://satoshiquest.io/), describing how you can play now.
+* The [Tapspace Metverse Whitepaper](https://tapspace.gg/), describing how you can play now.
 
 
-For questions about interacting with Satoshi Universe, please visit [our Discord server](https://discord.gg/ZYUQVhstdH).
+For questions about interacting with Tapspace Metaverse, please visit [our Discord server](https://discord.gg/ZYUQVhstdH).
 
 
 Contracts
